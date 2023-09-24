@@ -5,7 +5,7 @@
 
 ## Description
 
-The project is built using Swift and follows a clean architecture pattern. It leverages API integration, Table View, Cache Data and includes UI tests.
+The project is built using Swift , uikit and follows a clean architecture pattern. It leverages API integration, Table View, Cache Data.
 
 Discover Appetizer, the ultimate iOS UIKit app for food enthusiasts!, explore a world of mouthwatering appetizers.
 
@@ -17,7 +17,6 @@ Discover Appetizer, the ultimate iOS UIKit app for food enthusiasts!, explore a 
 - [Screenshots](#screenshots)
 - [Demo](#demo)
 - [Contributing](#contributing)
-- [Testing](#testing)
 - [Roadmap](#roadmap)
 - [FAQ](#faq)
 - [Support](#support)
@@ -29,16 +28,15 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shadyadel90/Appetizer.git
+   git clone https://github.com/shadyadel90/iCartShop
    
 2. Open the project in Xcode
 3. Build and run the project using the iOS Simulator.
 
 ## Features
 
-Discover recipes from around the world with the power of API integration
+Discover various of products from around the world with the power of API integration
 Personalize your experience by saving preferred cuisines by User Defaults.
-With caching of data, access even when offline or with a weak internet connection.
 A visually appealing and user-friendly interface that enhances your culinary journey,
 Dark mode support for improved usability.
 
@@ -46,7 +44,7 @@ Dark mode support for improved usability.
 
 Launch the app on your iOS device or simulator.
 
-Log in with your existing credentials.
+Explore different product with a lot of info about each.
 
 Explore the intuitive interface and navigate through the different screens.
 
@@ -64,17 +62,14 @@ https://github.com/shadyadel90/Appetizer/assets/31343078/0dcebcf8-dc47-4085-a57e
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please submit them as GitHub issues or create a pull request with your proposed changes.
 
-## Testing
-
-The project includes UI tests to ensure the stability and correctness of components. You can run the tests using Xcode's built-in test runner.
 
 ## Roadmap
 
 Here are some upcoming features and improvements planned for the project:
 
-1. Integration with a sharing service (Messaging app , Social media).
+1. Integration with a sharing service (Social media).
 2. Adding context preview for a much rich user experience.
-3. Recipe filtering and sorting options. *Search Added
+3. Product filtering and sorting options.
 
 
 ## FAQ

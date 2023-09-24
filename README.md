@@ -1,13 +1,10 @@
 # iCartShop
 # UIKIT Shopping App
 
-<img width="617" alt="Screenshot 2023-07-15 at 5 59 39 PM" src="https://github.com/shadyadel90/Appetizer/assets/31343078/0ed359fa-3261-4041-8fdb-79e631d40ffb">
 
 ## Description
 
 The project is built using Swift , uikit and follows a clean architecture pattern. It leverages API integration, Table View, Cache Data.
-
-Discover Appetizer, the ultimate iOS UIKit app for food enthusiasts!, explore a world of mouthwatering appetizers.
 
 ## Table of Contents
 
@@ -50,13 +47,16 @@ Explore the intuitive interface and navigate through the different screens.
 
 
 ## Screenshots
-<img width="419" alt="Screenshot 2023-07-15 at 6 01 13 PM" src="https://github.com/shadyadel90/Appetizer/assets/31343078/cae3ea6f-1bb6-4e08-8026-273db5272e2d"> 
-<img width="616" alt="Screenshot 2023-07-15 at 6 00 23 PM" src="https://github.com/shadyadel90/Appetizer/assets/31343078/b357127d-cfa7-4dc6-8991-8b61e730a939">
-<img width="375" alt="Screenshot 2023-07-15 at 6 01 35 PM" src="https://github.com/shadyadel90/Appetizer/assets/31343078/b364bc98-05d7-42b5-a5b2-c6c73d42c7d0">
+
+<img width="318" alt="Screenshot 2023-09-24 at 7 44 46 AM" src="https://github.com/shadyadel90/iCartShop/assets/31343078/a1ca247f-7284-4ff7-bc27-7d7b59f132c6">
+<img width="318" alt="Screenshot 2023-09-24 at 7 45 19 AM" src="https://github.com/shadyadel90/iCartShop/assets/31343078/ecf21f85-213a-4c5a-975d-d2f40d768db9">
+<img width="266" alt="Screenshot 2023-09-24 at 7 47 04 AM" src="https://github.com/shadyadel90/iCartShop/assets/31343078/0639b085-1a2b-464f-b912-3e231cc88842">
+<img width="542" alt="Screenshot 2023-09-24 at 7 47 48 AM" src="https://github.com/shadyadel90/iCartShop/assets/31343078/6f59e6db-af6e-4151-98c0-75befdc929c0">
 
 ## Demo
 
-https://github.com/shadyadel90/Appetizer/assets/31343078/0dcebcf8-dc47-4085-a57e-64ceb67c6fe3
+https://github.com/shadyadel90/iCartShop/assets/31343078/c9e659a5-ca88-4ec6-9356-3f5c2ffef938
+
 
 ## Contributing
 
